@@ -4,7 +4,6 @@
 <h3 align="center">A passionate coder interested in solving real world problems</h3>
 <img align="right" alt="AI" width="400" src="https://swisscognitive.ch/wp-content/uploads/2022/03/Left-Right-Brain-Signals.gif">
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phanikrishna819&label=Profile%20views&color=0e75b6&style=flat" alt="phanikrishna819" /> </p>
 
 - 🔭 I’m currently working on [passenger data](https://github.com/phanikrishna819/Passengerdata/blob/main/passengersdata.py)
@@ -27,7 +26,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/phanikrishna819" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="phanikrishna819" height="30" width="40" /></a>
 <a href="https://instagram.com/iphanikrishna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iphanikrishna" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kriss n cross" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kriss n cross" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucds8sk2wdd29rxxoxrksdlg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucds8sk2wdd29rxxoxrksdlg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
