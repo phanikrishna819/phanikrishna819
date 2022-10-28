@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Aadhar-Image-comparison-and-verification](https://github.com/phanikrishna819/Aadhar-Image-comparison-and-verification-.git)
 
-- 🌱 I’m currently learning **Python, UML**
+- 🌱 I’m currently learning **HTML, CSS, Javascript**
 
-- 👯 I’m looking to collaborate on **Image comparison from database**
+- 👯 I’m looking to collaborate on **Ecommerce website**
 
 - 👨‍💻 All of my projects are available at [https://github.com/phanikrishna819](https://github.com/phanikrishna819)
 
