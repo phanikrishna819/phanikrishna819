@@ -20,7 +20,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1VAnMl6Hfsxc5WCRTPHVPparSGDrCls-s/view?usp=sharing](https://drive.google.com/file/d/1VAnMl6Hfsxc5WCRTPHVPparSGDrCls-s/view?usp=sharing)
 
-- ⚡ Fun fact **From designer to a coder**
+- ⚡ Fun fact **designing and coding**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
