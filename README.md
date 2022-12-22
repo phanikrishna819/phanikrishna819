@@ -6,12 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phanikrishna819&label=Profile%20views&color=0e75b6&style=flat" alt="phanikrishna819" /> </p>
 
-- 🔭 I’m currently working on [Website](https://github.com/phanikrishna819/Website.git)
+- 🔭 I’m currently working on [Spring Boot](https://github.com/phanikrishna819/EmployeeDataManagement.git)
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript**
-
-- 👯 I’m looking to collaborate on **Ecommerce website**
-
+- 🌱 I’m currently learning **Spring Boot**
+- 
 - 👨‍💻 All of my projects are available at [https://github.com/phanikrishna819](https://github.com/phanikrishna819)
 
 - 💬 Ask me about **C, JAVA**
