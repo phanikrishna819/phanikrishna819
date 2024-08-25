@@ -8,8 +8,8 @@
 
 - 🔭 I’m currently working on [Spring Boot](https://github.com/phanikrishna819/EmployeeDataManagementSB.git)
 
-- 🌱 I’m currently learning **Spring Boot**
-- 
+- 🌱 I’m currently working on **Spring Boot**
+  
 - 👨‍💻 All of my projects are available at [https://github.com/phanikrishna819](https://github.com/phanikrishna819)
 
 - 💬 Ask me about **C, JAVA**
