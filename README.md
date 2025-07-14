@@ -12,7 +12,7 @@
   
 - 👨‍💻 All of my projects are available at [https://github.com/phanikrishna819](https://github.com/phanikrishna819)
 
-- 💬 Ask me about **C, JAVA**
+- 💬 Ask me about **JAVA**
 
 - 📫 How to reach me **phanikrishna819@gmail.com**
 
